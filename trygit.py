@@ -1,2 +1,3 @@
 nome=input('inserisci nome: ')
-print(nome)
+print(f'ciao: {nome}')
+print('come stai?')
